@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/SUKHPAL443/craxyx",
   "website": "https://github.com/SUKHPAL443/crazyx",
-  "success_url": "t.me/crazysupport_official",
+  "success_url": "t.me/MAMBA_X_SUPPORT",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
