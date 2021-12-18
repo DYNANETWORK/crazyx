@@ -4,14 +4,14 @@
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/daisyx.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/crazyx.git)
 
 [Generate String Session](https://replit.com/@SUKHPAL443/crazyx#main.py)  << Select telethon
 
 
 # ❤️ Support
-<a href="https://t.me/craxySupport_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20group-red.svg?logo=Telegram"></a>
 
-<a href="https://t.me/craxysupport_official"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
