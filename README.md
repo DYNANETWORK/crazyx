@@ -6,7 +6,7 @@
 # 🏃‍♂️ Easy Deploy 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SUKHPAL443/daisyx.git)
 
-[Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
+[Generate String Session](https://replit.com/@SUKHPAL443/crazyx#main.py)  << Select telethon
 
 
 # ❤️ Support
