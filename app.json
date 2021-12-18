@@ -8,8 +8,8 @@
     "telegram-crazyx",
     "fuck-TG"
   ],
-  "repository": "https://github.com/SUKHPAL443/daisyx",
-  "website": "https://github.com/SUKHPAL443/daisyx",
+  "repository": "https://github.com/SUKHPAL443/craxyx",
+  "website": "https://github.com/SUKHPAL443/crazyx",
   "success_url": "t.me/crazysupport_official",
   "buildpacks": [
    {
@@ -64,7 +64,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/SUKHPAL443/daisyx",
+      "value": "https://github.com/SUKHPAL443/crazyx",
       "required": false  
     },
     "API_PORT": {
